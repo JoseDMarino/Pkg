@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "28bb72f0-a185-454b-9014-94f84f6b78f3",
+    "Name": "DfcLoans",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1721673733000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DfcLoans.csproj",
+    "DependsOn": [
+      {
+        "UId": "01f10d0c-9faf-421e-5820-7af55e921047",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFinservProduct",
+        "Type": 1
+      },
+      {
+        "UId": "30515afc-d191-0b9f-e55e-f37ec6adcee0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBaseFinserv",
+        "Type": 1
+      },
+      {
+        "UId": "9d99e3f1-7489-9510-8751-316aa22bfdd5",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFinservApplication",
+        "Type": 1
+      },
+      {
+        "UId": "b2e969d3-e855-b1c2-c844-0ff7e0cba43f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFinservSalesAndServiceApp",
+        "Type": 1
+      },
+      {
+        "UId": "be00c13d-b597-e5ab-54ca-f0a36648acba",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtFinservContract",
+        "Type": 1
+      }
+    ]
+  }
+}

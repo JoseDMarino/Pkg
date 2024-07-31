@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Анкета по заявке" />
+			<Item Name="Columns.BirthDate.Caption" Value="Дата рождения" />
+			<Item Name="Columns.ChildrenUnder14.Caption" Value="Детей до 14 лет" />
+			<Item Name="Columns.Citizenship.Caption" Value="Гражданство" />
+			<Item Name="Columns.CodeDivision.Caption" Value="Код подразделения" />
+			<Item Name="Columns.Contact.Caption" Value="Физ. лицо" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Создал" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата создания" />
+			<Item Name="Columns.Education.Caption" Value="Образование" />
+			<Item Name="Columns.EmploymentType.Caption" Value="Тип занятости" />
+			<Item Name="Columns.FinApplication.Caption" Value="Заявка" />
+			<Item Name="Columns.Gender.Caption" Value="Пол" />
+			<Item Name="Columns.GivenName.Caption" Value="Имя" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.INN.Caption" Value="ИНН" />
+			<Item Name="Columns.IsAgreePrivateDataProcessing.Caption" Value="Согласие на обработку данных" />
+			<Item Name="Columns.IsAgreePrivateDataVerification.Caption" Value="Согласие на проверку данных" />
+			<Item Name="Columns.IsNewContact.Caption" Value="Новое физ.лицо" />
+			<Item Name="Columns.IsSameAddress.Caption" Value="Адреса совпадают" />
+			<Item Name="Columns.IssueDate.Caption" Value="Дата выдачи" />
+			<Item Name="Columns.IssuedBy.Caption" Value="Орган выдачи" />
+			<Item Name="Columns.MaritalStatus.Caption" Value="Семейное положение" />
+			<Item Name="Columns.MiddleName.Caption" Value="Отчество" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Изменил" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Дата изменения" />
+			<Item Name="Columns.Number.Caption" Value="Номер" />
+			<Item Name="Columns.NumberOfChildren.Caption" Value="Количество детей" />
+			<Item Name="Columns.NumberOfDependants.Caption" Value="Количество иждивенцев" />
+			<Item Name="Columns.Participant.Caption" Value="Участник" />
+			<Item Name="Columns.ParticipantRole.Caption" Value="Роль участника" />
+			<Item Name="Columns.Photo.Caption" Value="Фото" />
+			<Item Name="Columns.PlaceOfBirth.Caption" Value="Место рождения" />
+			<Item Name="Columns.PreviousSurname.Caption" Value="Прежняя фамилия" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Активные процессы" />
+			<Item Name="Columns.Qualification.Caption" Value="Квалификация" />
+			<Item Name="Columns.Series.Caption" Value="Серия" />
+			<Item Name="Columns.SocialStatus.Caption" Value="Социальный статус" />
+			<Item Name="Columns.SpouseBirthDate.Caption" Value="Дата рождения супруг(а)" />
+			<Item Name="Columns.SpouseContactNumber.Caption" Value="Контактный телефон супруга(и)" />
+			<Item Name="Columns.SpouseGivenName.Caption" Value="Имя супруг(а)" />
+			<Item Name="Columns.SpouseMiddleName.Caption" Value="Отчество супруг(а)" />
+			<Item Name="Columns.SpouseSurname.Caption" Value="Фамилия супруг(а)" />
+			<Item Name="Columns.Surname.Caption" Value="Фамилия" />
+			<Item Name="Columns.TotalWorkExperienceMonths.Caption" Value="Общий стаж, мес" />
+			<Item Name="Columns.TotalWorkExperienceYears.Caption" Value="Общий стаж, лет" />
+		</Items>
+	</Group>
+</Resources>

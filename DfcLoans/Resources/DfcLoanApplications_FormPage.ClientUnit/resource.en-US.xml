@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Loan Applications form page" />
+			<Item Name="LocalizableStrings.addRecord_53srosl_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kemua04_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kfc6tga_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_m9x4s0z_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_quw18cy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_x8z8j6p_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yeaqt2i_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Customer information" />
+		</Items>
+	</Group>
+</Resources>

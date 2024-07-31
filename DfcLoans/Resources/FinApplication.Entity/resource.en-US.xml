@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Case.Caption" Value="Case" />
+			<Item Name="Columns.DfcClientCategory.Caption" Value="Client Category" />
+			<Item Name="Columns.Number.Caption" Value="Application No" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow1_f8dfe7c6008e4f35a82a410661346b8c.Caption" Value="Yes" />
+			<Item Name="EventsProcessSchema.BaseElements.DefaultSequenceFlow1_204f2ed050e344f3b2751259f4c02a65.Caption" Value="No" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess3_57c912afd6d34b059d5b9f822fcfeaf6.Caption" Value="Auto-numbering" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="Generate ordinal number" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask3_c3a75b786cc749d5a7949a7225edd56b.Caption" Value="Set parameters for generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask5_c67236e4c4214d65bccd2b9856692335.Caption" Value="Sets generated number" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_6b2779fb430b4d83930e15fe3c28159e.Caption" Value="Inserting" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Application Form" />
+			<Item Name="Columns.BirthDate.Caption" Value="Birth date" />
+			<Item Name="Columns.ChildrenUnder14.Caption" Value="Children under 14" />
+			<Item Name="Columns.Citizenship.Caption" Value="Citizenship" />
+			<Item Name="Columns.CodeDivision.Caption" Value="Department code" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Created by" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Created on" />
+			<Item Name="Columns.Education.Caption" Value="Education" />
+			<Item Name="Columns.EmploymentType.Caption" Value="Type of employment" />
+			<Item Name="Columns.FinApplication.Caption" Value="Application" />
+			<Item Name="Columns.Gender.Caption" Value="Gender" />
+			<Item Name="Columns.GivenName.Caption" Value="First name" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.INN.Caption" Value="SSN" />
+			<Item Name="Columns.IsAgreePrivateDataProcessing.Caption" Value="Consent to the processing of personal data" />
+			<Item Name="Columns.IsAgreePrivateDataVerification.Caption" Value="Consent to the verification of personal data" />
+			<Item Name="Columns.IsNewContact.Caption" Value="New contact" />
+			<Item Name="Columns.IsSameAddress.Caption" Value="Same as above address" />
+			<Item Name="Columns.IssueDate.Caption" Value="Issue date" />
+			<Item Name="Columns.IssuedBy.Caption" Value="Issued by" />
+			<Item Name="Columns.MaritalStatus.Caption" Value="Marital status" />
+			<Item Name="Columns.MiddleName.Caption" Value="Middle name" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Modified by" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Modified on" />
+			<Item Name="Columns.Number.Caption" Value="Number" />
+			<Item Name="Columns.NumberOfChildren.Caption" Value="Number of children" />
+			<Item Name="Columns.NumberOfDependants.Caption" Value="Number of dependants" />
+			<Item Name="Columns.Participant.Caption" Value="Participant" />
+			<Item Name="Columns.ParticipantRole.Caption" Value="Participant role" />
+			<Item Name="Columns.Photo.Caption" Value="Photo" />
+			<Item Name="Columns.PlaceOfBirth.Caption" Value="Birthplace" />
+			<Item Name="Columns.PreviousSurname.Caption" Value="Former name" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Active processes" />
+			<Item Name="Columns.Qualification.Caption" Value="Qualification" />
+			<Item Name="Columns.Series.Caption" Value="Series" />
+			<Item Name="Columns.SocialStatus.Caption" Value="Social status" />
+			<Item Name="Columns.SpouseBirthDate.Caption" Value="Spouse birth date" />
+			<Item Name="Columns.SpouseContactNumber.Caption" Value="Spouse contact phone" />
+			<Item Name="Columns.SpouseGivenName.Caption" Value="Spouse given name" />
+			<Item Name="Columns.SpouseMiddleName.Caption" Value="Spouse middle name" />
+			<Item Name="Columns.SpouseSurname.Caption" Value="Spouse last name" />
+			<Item Name="Columns.Surname.Caption" Value="Last name" />
+			<Item Name="Columns.TotalWorkExperienceMonths.Caption" Value="Total work experience, months" />
+			<Item Name="Columns.TotalWorkExperienceYears.Caption" Value="Total work experience, years" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

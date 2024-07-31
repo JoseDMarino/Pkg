@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/DfcLoans/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/DfcLoans/Data/**" />
+		<Compile Remove="$(PkgPath)/DfcLoans/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/DfcLoans/Schemas\**" />
+		<Compile Remove="$(PkgPath)/DfcLoans/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/DfcLoans/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/DfcLoans/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/DfcLoans/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/DfcLoans/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/DfcLoans/Resources/**" />
+		<None Remove="$(PkgPath)/DfcLoans/Assemblies/**" />
+		<None Remove="$(PkgPath)/DfcLoans/Data/**" />
+		<None Remove="$(PkgPath)/DfcLoans/SqlScripts/**" />
+		<None Remove="$(PkgPath)/DfcLoans/Schemas/**" />
+		<None Remove="$(PkgPath)/DfcLoans/Resources/**" />
+  </ItemGroup>
+</Project>

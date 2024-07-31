@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.da48670f-898f-c3bf-de79-db7d31e9ad68.Caption" Value="Apply static filter: Client Category" />
+			<Item Name="Caption" Value="Application (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

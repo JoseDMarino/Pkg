@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Loans" />
+			<Item Name="Columns.DfcAccount.Caption" Value="Customer" />
+			<Item Name="Columns.DfcContact.Caption" Value="Contact" />
+			<Item Name="Columns.DfcCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.DfcInterestRate.Caption" Value="Interest %" />
+			<Item Name="Columns.DfcLoanAmt.Caption" Value="Loan Amount" />
+			<Item Name="Columns.DfcLoanApp.Caption" Value="Loan Application" />
+			<Item Name="Columns.DfcLoanContract.Caption" Value="Loan Contract" />
+			<Item Name="Columns.DfcLoanNo.Caption" Value="Loan Number" />
+			<Item Name="Columns.DfcMaturity.Caption" Value="Maturity" />
+			<Item Name="Columns.DfcPeriodType.Caption" Value="Period Type" />
+			<Item Name="Columns.DfcProduct.Caption" Value="Product" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>
